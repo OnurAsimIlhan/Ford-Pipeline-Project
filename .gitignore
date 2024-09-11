@@ -1,8 +1,9 @@
 /data/
 /scripts/
 /logs/
-
+/cert/
 *.log
 *.tmp
 *.swp
+*.env
 .DS_Store
