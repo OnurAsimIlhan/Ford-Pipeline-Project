@@ -1,0 +1,8 @@
+/data/
+/scripts/
+/logs/
+
+*.log
+*.tmp
+*.swp
+.DS_Store
